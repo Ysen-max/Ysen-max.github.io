@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>第一次安装博客的心得</title>
+    <url>/2020/08/26/blog-1/</url>
+    <content><![CDATA[<h2 id="配置依赖，git-node-js-cnpm"><a href="#配置依赖，git-node-js-cnpm" class="headerlink" title="配置依赖，git,node.js,cnpm"></a>配置依赖，git,node.js,cnpm</h2><p>这部分得靠自己了，像我这种刚刚接触这类东西，在配置依赖的时候可真的让我头皮发麻，浑身难受。</p>
+<h2 id="安装hexo，并初始化"><a href="#安装hexo，并初始化" class="headerlink" title="安装hexo，并初始化"></a>安装hexo，并初始化</h2><p>一些命令</p>
+<h2 id="改主题"><a href="#改主题" class="headerlink" title="改主题"></a>改主题</h2><p>这里用小白必备next</p>
+<h2 id="部署到远端"><a href="#部署到远端" class="headerlink" title="部署到远端"></a>部署到远端</h2><p>这里我是部署到github</p>
+<h2 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h2><p>在这个期间我看了许多文档，都来自CSDN的，感觉CSDN是个好东西，当然也看了一些视频，视频和文档各有好处，文档的话你可以有更多的自己动手操作的机会，有的人说，那没看视频安装错误怎么办，这其实刚开始的时候我也有这样的想法，毕竟根据视频直接的无脑安装不是很好，但是当你看别人的视频的时候发现别人的步骤是对的，人家up主也安装OK了，可为什么到我们这里就安装不成功呢，其实我觉得是个人的知识储备的不同，就比如我吧，别人是在学完一些web基础的条件下，发布了这个视频，可我是小白，有的时候别人认为这不是一个问题，可到了我们这里，却变成了一个问题，我们不理解，这个时候blog这东西就是一个好的办事工具了，别人有的时候会把问题解决，并以博客的方式发布出来，我们这就可以利用他们的经验来解决我们的问题，借鸡生蛋，还有就是大胆的试呗，据说重启能解决90%的问题，重装系统能解决99%的问题，怂啥，不服就干呗。<br><img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1197353328,1790564115&fm=26&gp=0.jpg"></p>
+<h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><p><a href="https://mrhuanhao.cn/">大佬博客，无脑操作</a></p>
+]]></content>
+      <categories>
+        <category>hexo</category>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>JAVA核心技术笔记</title>
+    <url>/2020/08/26/java-nodes/</url>
+    <content><![CDATA[<h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2><h3 id="java的特点"><a href="#java的特点" class="headerlink" title="java的特点"></a>java的特点</h3><ul>
+<li>简单性<br>这里没有头文件、 指针运算（甚至指<br>针语法、) 结构、 联合、 操作符重载、 虚基类等，对于c++而言。</li>
+</ul>
+<ul>
+<li>面向对象</li>
+<li>可移植</li>
+<li>多线程</li>
+<li>体系中立</li>
+<li>解释型</li>
+<li>高性能</li>
+<li>动态性 </li>
+<li>分布式</li>
+<li>健壮性</li>
+<li>安全性<h3 id="误区"><a href="#误区" class="headerlink" title="误区"></a>误区</h3></li>
+</ul>
+<ul>
+<li><p><strong>Java 是 HTML 的扩展</strong><br>Java 是一种程序设计语言；HTML 是一种描述网页结构的方式。除了用于在网页上放置Java applet 的 HTML 扩展之外，两者没有任何共同之处。 2. 使用 XML, 所以不需要 Java</p>
+</li>
+<li><p><strong>使用 XML, 所以不需要 Java</strong><br>Java 是一种程序设计语言；XML 是一种描述数据的方式。可以使用任何一种程序设计语言处理 XML 数据，而 Java API 对 XML 处理提供了很好的支持。此外，许多重要的第三方 XML 工具采用 Java 编写。</p>
+</li>
+<li><p><strong>Java 是一种非常容易学习的程序设计语言</strong><br>像 ava 这种功能强大的语言大都不太容易学习。首先，必须将编写玩具式程序的轻松和开发实际项目的艰难区分开来。需要注意的是：本书只用了 7 章讨论 Java 语言。在两卷中，其他的章节介绍如何使用 Java 类库将 Java语言应用到实际中去。Java 类库包含了数千种类和接口以及数万个函数。幸运的是，并不需要知道它们中的每一个，然而， 要想 Java 解决实际问题， 还是需要了解不少内容的。</p>
+</li>
+<li><p><strong>Java 将成为适用于所有平台的通用性编程语言</strong><br>不是这样的有些平台有自己所适应的语言，Objective C 和后来的 Swift 在 iOS 设备上就有着无可取代的地位， 浏览器中的处理几乎完全由JavaScript 掌控。 Windows 程序通常都用 C++ 或 C# 编写D Java 在服务器端编程和跨平台客户端应用领域则很有优势 </p>
+</li>
+<li><p><strong>Java 只不过是另外一种程序设计语言</strong><br>支撑系统的能力，而不是语法，是否有利于实现功能的类库， 强大的开发工具</p>
+</li>
+<li><p><strong>Java 是专用的，应该避免使用</strong><br>虽然是专用的，但是好用，推荐使用</p>
+</li>
+<li><p><strong>Java 是解释型的， 因此对于关键的应用程序速度太慢了</strong><br>早期是解释型的，现在的虚拟机用的即时编译器，和c++的差不多了，甚至跟快</p>
+</li>
+<li><p><strong>所有的 Java 程序都是在网页中运行的</strong><br>大部分不是网页</p>
+</li>
+<li><p><strong>Java 程序是主要的安全风险</strong><br>Windows的Word库还更坑呢</p>
+</li>
+<li><p><strong>JavaScript 是 Java 的简易版</strong><br>JavaScript 是一种在网页中使用的脚本语言，它是由 Netscape 发明的， JavaScript 的语法类似 Java, 除此之外，两者无任何关系。当然，名字有些相像。</p>
+</li>
+<li><p><strong>使用 Java 可以用廉价的 Internet 设备取代桌面计算机</strong><br>一些公司已经生产出 Java 网络计算机的原型，不过用户还不打算放弃功能强大而便利的桌面计算机， 而去使用没有本地存储而且功能有限的网络设备。当然，如今世界已经发生改变，对于大多数最终用户，常用的平台往往是手机或平板电脑。这些设备大多使用安卓平台，这是 Java 的衍生产物。学习Java 编程肯定也对 Android 编程很有帮助</p>
+</li>
+</ul>
+<h2 id="java的一些术语"><a href="#java的一些术语" class="headerlink" title="java的一些术语"></a>java的一些术语</h2><p><img src="/img/1.png"><br><img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1401872842,2268764729&fm=26&gp=0.jpg">   </p>
+]]></content>
+  </entry>
+</search>
